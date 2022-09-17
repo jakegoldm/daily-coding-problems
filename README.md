@@ -5,3 +5,4 @@ This repository contains my solutions for [Daily Coding Problems](https://www.da
 ## Challenges
 
 * [#1 Sum in list equal to k](./solutions/ksum.py)
+* [#2 Product of integers in list excluding index i](./solutions/product_excluding_i.py)
